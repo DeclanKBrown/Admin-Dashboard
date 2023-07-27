@@ -179,6 +179,7 @@ body {
 
 .announcments span {
     font-size: 0.7rem;
+    color: #374151;
 }
 
 .announcment-inner {
@@ -245,6 +246,7 @@ body {
 .project-card span {
     padding-left: 1rem;
     padding-top: 1rem;
+    color: #374151;
 }
 
 .projects-title {
